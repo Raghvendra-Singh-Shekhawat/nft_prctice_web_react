@@ -35,7 +35,7 @@ export default function Navbar({ changeTheme, currentTheme }) {
             <a href="#features">Features</a>
           </li>
           <li>
-            <a href="#about">About</a>
+            <a href="#about">Shubham</a>
           </li>
           <li>
             <a href="#launch">Launch</a>
